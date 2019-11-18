@@ -651,6 +651,7 @@
 - sritchie/scala-rl
 - stephennancekivell/scalatest-json
 - stryker-mutator/stryker4s
+- stripe/dagon
 - sullis/java-scala-interop-examples
 - sullis/jms-testkit
 - sullis/scala-hello-world-app
